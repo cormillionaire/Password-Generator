@@ -4,7 +4,7 @@ This is a javascript based passsword generation tool using a number of functions
 
 This is for 2-Password-Generator
 
-![Password Generator](./assets/images/PasswordGeneratorPrompts.png)
+![Password Generator](./assets/images/PasswordGeneratorPrompts.PNG)
 
 ## User Stor
 ```
